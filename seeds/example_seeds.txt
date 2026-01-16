@@ -1,0 +1,14 @@
+# Example seed URLs for Wikipedia NER data generation
+# One URL per line, comments start with #
+
+# People
+https://en.wikipedia.org/wiki/Albert_Einstein
+https://en.wikipedia.org/wiki/Marie_Curie
+
+# Places
+https://en.wikipedia.org/wiki/New_York_City
+https://en.wikipedia.org/wiki/Germany
+
+# Organizations
+https://en.wikipedia.org/wiki/Google
+https://en.wikipedia.org/wiki/United_Nations
